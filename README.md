@@ -13,6 +13,14 @@ Ejemplo python sobre listas, tuplas, disciplinarios
 -resultado
 ![image](https://github.com/user-attachments/assets/8c8dc449-4116-487b-a31e-1dc2acfc11db)
 
+##ejemplo diccionario
+-codigo
+![image](https://github.com/user-attachments/assets/4387a7cf-a56a-461d-a551-f4f8e2c12238)
+
+-resultado
+![image](https://github.com/user-attachments/assets/7701ea42-8dee-4549-9721-3b671ff87765)
+
+
 
 
 
