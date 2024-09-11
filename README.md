@@ -8,6 +8,12 @@ Ejemplo python sobre listas, tuplas, disciplinarios
 -resultado
 ![image](https://github.com/user-attachments/assets/331639d8-ff43-4139-8ad8-5d55ce5f72bc)
 
+##Ejemplo de conjunto set 
+-![image](https://github.com/user-attachments/assets/43ebcadc-d790-4a74-92a6-a11a2a67ad99)
+-resultado
+![image](https://github.com/user-attachments/assets/8c8dc449-4116-487b-a31e-1dc2acfc11db)
+
+
 
 
 
